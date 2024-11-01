@@ -1,0 +1,61 @@
+[
+	{
+		"handle": "taro-series-toc",
+		"path": "dist/css/toc.css",
+		"ext": "css",
+		"hash": "944575fdd51f2b1350beb4fe80efe453",
+		"version": "0.0.0",
+		"deps": [],
+		"footer": true,
+		"media": "all"
+	},
+	{
+		"handle": "taro-series-toc",
+		"path": "dist/js/block-toc.js",
+		"ext": "js",
+		"hash": "e3cedda23dbb82b7705d522431438879",
+		"version": "0.0.0",
+		"deps": [
+			"wp-i18n",
+			"wp-components",
+			"wp-blocks",
+			"wp-block-editor",
+			"wp-server-side-render",
+			"wp-compose",
+			"wp-data"
+		],
+		"footer": true,
+		"media": "all"
+	},
+	{
+		"handle": "taro-series-post-editor",
+		"path": "dist/js/post-editor.js",
+		"ext": "js",
+		"hash": "b00892cd1e92f2bc764831a8bbcdb85d",
+		"version": "0.0.0",
+		"deps": [
+			"wp-element",
+			"wp-components",
+			"wp-api-fetch",
+			"wp-i18n"
+		],
+		"footer": true,
+		"media": "all"
+	},
+	{
+		"handle": "taro-series-series-editor",
+		"path": "dist/js/series-editor.js",
+		"ext": "js",
+		"hash": "75ffc6c033b1ee1289ff9300970956eb",
+		"version": "0.0.0",
+		"deps": [
+			"wp-element",
+			"wp-components",
+			"wp-api-fetch",
+			"wp-i18n",
+			"wp-data"
+		],
+		"footer": true,
+		"media": "all"
+	}
+]

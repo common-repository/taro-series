@@ -1,0 +1,7 @@
+/*!
+ * TOC style
+ *
+ * @package taro-series
+ * @handle taro-series-toc
+ */.taro-series-toc{margin:40px 0}.taro-series-toc-title{font-size:18px;text-align:center;font-weight:700}.taro-series-toc-list{margin:20px 0;padding:0}.taro-series-toc-item{list-style-position:inside;margin:0;padding:10px 30px 10px 5px;border-bottom:1px solid currentColor}.taro-series-toc-item:first-child{border-top:1px solid currentColor}.taro-series-toc-item.current{position:relative}.taro-series-toc-item.current::before{content:"◁";display:block;position:absolute;right:10px;top:50%;transform:translateY(-50%)}.taro-series-toc-link{text-align:center;margin:20px 0;padding:5px}.taro-series-toc-link a{display:inline-block;padding:5px 10px;font-size:.8em;border-radius:3px;border:1px solid currentColor}.taro-series-toc-link a:link,.taro-series-toc-link a:visited{text-decoration:none;color:currentColor}.taro-series-toc-link a:hover,.taro-series-toc-link a:active{text-decoration:none;opacity:.6}
+/*# sourceMappingURL=map/toc.css.map */

@@ -1,0 +1,8 @@
+/*!
+ * Toc Block
+ *
+ * @package taro-series
+ * @handle taro-series-toc
+ * @deps wp-i18n, wp-components, wp-blocks, wp-block-editor, wp-server-side-render, wp-compose, wp-data
+
+ */

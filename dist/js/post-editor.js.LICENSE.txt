@@ -1,0 +1,7 @@
+/*!
+ * Post editor helper
+ *
+ * @package taro-series
+ * @handle taro-series-post-editor
+ * @deps wp-element, wp-components, wp-api-fetch, wp-i18n
+ */

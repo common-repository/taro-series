@@ -1,0 +1,7 @@
+/*!
+ * Series editor helper.
+ *
+ * @package taro-series
+ * @handle taro-series-series-editor
+ * @deps wp-element, wp-components, wp-api-fetch, wp-i18n, wp-data
+ */
